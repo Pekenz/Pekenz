@@ -2,9 +2,9 @@
 - 👀 Atualmente estou interessado em desenvolvimento de softwares e web também...
 - 🌱 Atualmente estudando sobre javascript e python!
 - 💞️ Procuro projetos que posso participar, mesmo sendo iniciante!
-- 📫 Podem me encontrar pelo e-mail pedropolezer@hotmail.com
 
-<!---
-Pekenz/Pekenz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/Pekenz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pekenz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="161em" img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pekenz&layout=compact&langs_count=16&theme=dark"/>
+</div>
